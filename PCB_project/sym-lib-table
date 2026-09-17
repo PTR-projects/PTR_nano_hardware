@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ESP8285")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/RuL/RuL_nano/lib/ESP8285.kicad_sym")(options "")(descr ""))
+  (lib (name "RuL_lib")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/RuL/RuL_nano/lib/RuL_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "KP-PTR_lib")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/kp-ptr-hardware/kp-ptr/KP-PTR_lib.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "lib")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/RuL/RuL_nano/lib.pretty")(options "")(descr ""))
+  (lib (name "RuL_footprint")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/RuL/RuL_nano/lib/RuL_footprint.pretty")(options "")(descr ""))
+  (lib (name "KP-PTR_lib")(type "KiCad")(uri "C:/Users/bartek/Documents/GitHub/PTR/kp-ptr-hardware/kp-ptr/KP-PTR_lib.pretty")(options "")(descr ""))
+)
