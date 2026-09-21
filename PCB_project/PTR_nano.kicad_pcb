@@ -15694,7 +15694,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "mini"
+	(gr_text "nano"
 		(at 136 89.25 90)
 		(layer "B.SilkS")
 		(uuid "23084aa4-8891-4354-80f9-99dd6a01fd89")
