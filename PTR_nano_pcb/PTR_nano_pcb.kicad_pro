@@ -534,7 +534,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PTR_nano.kicad_pro",
+    "filename": "PTR_nano_pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -938,8 +938,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PTR_nano.kicad_sch",
-        "name": "PTR_nano",
+        "filename": "PTR_nano_pcb.kicad_sch",
+        "name": "PTR_nano_pcb",
         "uuid": "a884dbad-5345-4bfa-8701-c98e70db1029"
       }
     ],

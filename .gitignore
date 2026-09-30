@@ -19,3 +19,4 @@ fp-info-cache
 kp-ptr-backups
 /kp-ptr/kp-ptr_step.7z
 .history
+*.lck

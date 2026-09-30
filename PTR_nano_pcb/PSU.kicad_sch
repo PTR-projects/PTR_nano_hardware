@@ -1352,7 +1352,7 @@
 			(uuid "de6be698-b1e5-4f21-9b34-22e2549f67f0")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR053")
 					(unit 1)
@@ -1433,7 +1433,7 @@
 			(uuid "07fa87fd-bb7c-4e12-8db6-59ba37bca08d")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "C24")
 					(unit 1)
@@ -1509,7 +1509,7 @@
 			(uuid "157ad136-4923-46ee-a6dc-1708cacba47b")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR051")
 					(unit 1)
@@ -1590,7 +1590,7 @@
 			(uuid "4b2556a8-2564-4aef-9075-3cbc4662cd40")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "C20")
 					(unit 1)
@@ -1666,7 +1666,7 @@
 			(uuid "e9944f34-5843-43b4-b1f5-040e666a3d12")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR057")
 					(unit 1)
@@ -1744,7 +1744,7 @@
 			(uuid "95fe8d94-bb56-47ca-9687-9c9d735029aa")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "R15")
 					(unit 1)
@@ -1881,7 +1881,7 @@
 			(uuid "06728e03-562f-423c-9746-37118ed63acd")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "U4")
 					(unit 1)
@@ -1957,7 +1957,7 @@
 			(uuid "cccf05fd-3774-4155-9b24-b5d893bc8537")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR055")
 					(unit 1)
@@ -2033,7 +2033,7 @@
 			(uuid "2e86acf6-264e-4763-909d-15111b360a82")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR052")
 					(unit 1)
@@ -2112,7 +2112,7 @@
 			(uuid "175315d1-7903-4a97-bee3-e61b32fc1577")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "J2")
 					(unit 1)
@@ -2188,7 +2188,7 @@
 			(uuid "8f1bf2ef-2014-4423-8ac1-01f287a2588c")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR048")
 					(unit 1)
@@ -2269,7 +2269,7 @@
 			(uuid "288b433c-7edf-4538-93b8-586d6d5e678a")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "C22")
 					(unit 1)
@@ -2345,7 +2345,7 @@
 			(uuid "2e2a8c71-b60a-4c1c-8b1e-c2088be3d06a")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR050")
 					(unit 1)
@@ -2421,7 +2421,7 @@
 			(uuid "32677e31-3ef6-498e-830b-98e35b95049f")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR049")
 					(unit 1)
@@ -2498,7 +2498,7 @@
 			(uuid "a2d27791-e22e-4bb9-9bc3-24bcf5f280ea")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR054")
 					(unit 1)
@@ -2576,7 +2576,7 @@
 			(uuid "cb841186-82fe-4000-9b53-b58e272e806d")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "R16")
 					(unit 1)
@@ -2657,7 +2657,7 @@
 			(uuid "496d52d6-728d-4892-8799-e505a8ffac30")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "C23")
 					(unit 1)
@@ -2734,7 +2734,7 @@
 			(uuid "833ca454-001f-4021-9810-af3ccfe2afb8")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR046")
 					(unit 1)
@@ -2811,7 +2811,7 @@
 			(uuid "57191b65-c7e9-41ce-8bff-4756906716de")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR047")
 					(unit 1)
@@ -2892,7 +2892,7 @@
 			(uuid "108d9ec8-40a6-4ddf-a9d1-5b2ab9f2d13d")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "C21")
 					(unit 1)
@@ -2968,7 +2968,7 @@
 			(uuid "d5b6004b-53f5-411a-bad7-fdbf7d57c5b5")
 		)
 		(instances
-			(project "PTR_nano"
+			(project "PTR_nano_pcb"
 				(path "/a884dbad-5345-4bfa-8701-c98e70db1029/708782c1-b006-4c4f-9c06-9ad4f6f7b055"
 					(reference "#PWR056")
 					(unit 1)
