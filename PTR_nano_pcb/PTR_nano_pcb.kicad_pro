@@ -261,6 +261,10 @@
           "drill": 0.2
         },
         {
+          "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
           "drill": 0.25
         },
@@ -530,8 +534,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "PTR_nano_footprint"
+    ],
+    "pinned_symbol_libs": [
+      "CSD13380F3",
+      "ptr_nano_lib"
+    ]
   },
   "meta": {
     "filename": "PTR_nano_pcb.kicad_pro",
@@ -943,13 +952,13 @@
         "uuid": "a884dbad-5345-4bfa-8701-c98e70db1029"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U5",
     "variants": []
   },
   "sheets": [
     [
       "a884dbad-5345-4bfa-8701-c98e70db1029",
-      "PTR_nano"
+      "PTR_nano_pcb"
     ],
     [
       "2ce0a40a-da5a-4826-a343-f0d052affb90",
